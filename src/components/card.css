@@ -1,0 +1,18 @@
+.carddiv{
+    border: 10px solid grey;
+    border-radius: 30px;
+    background-color: aquamarine;
+    width:20vw;
+    height:50vh;
+    padding: 10px;
+   
+    
+
+}
+.carddiv:hover{
+    background-color: cornflowerblue;
+}
+img{
+    border-radius: 50%;
+    border: 10px solid wheat;
+}
